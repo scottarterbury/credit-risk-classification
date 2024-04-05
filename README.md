@@ -45,4 +45,4 @@ Classification report was 99% accurate.
 
 ## Summary
 
-The logistic regression model along with the confusion matrix showed us that this is an accurate analysis of credit worthiness. This successfully showed that a loan would be a healthy or risky investment.  The logistic regression model trained the model and the confusion matrix gave us a test of it's accuracy. The more data we obtain the better the results we can display.  For this data, I would recomment using this type of model in providing a valid due diligence in evaluating credit risk.
+The logistic regression model along with the confusion matrix showed us that this is an accurate analysis of credit worthiness. This successfully showed that a loan would be a healthy or risky investment.  The logistic regression model trained the model and the confusion matrix gave us a test of it's accuracy. The more data we obtain the better the results we can display.  For this data, I would recommend using this type of model in providing a valid due diligence in evaluating credit risk.
