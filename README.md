@@ -1,6 +1,20 @@
 # credit-risk-classification
 
-## Overview of the Analysis
+## Background
+
+In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+
+## Instructions
+
+The instructions for this Challenge are divided into the following subsections:
+
+Split the Data into Training and Testing Sets
+
+Create a Logistic Regression Model with the Original Data
+
+Write a Credit Risk Analysis Report
+
+## Analysis Report
 
 For this challenge, I used a logistic regression model to train and evaluate a model for loan risk. I used historical lending activity  data from a peer-to-peer lending services company to build a model and identify the creditworthiness of borrowers.
 
